@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Red alert</string>
+    <string name="settings">Settings</string>
+    <string name="sendAlert">SEND RED ALERT</string>
+    <string name="addPriContact">Add primary contact</string>
+    <string name="gapTime">Gap between messages(minutes)</string>
+    
+    <string-array name="gap_time_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>5</item>
+        <item>10</item>
+        <item>30</item>
+    </string-array>
+    
+    <string-array name="no_of_messages">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+    </string-array>
+    
+        <string name="noOfMessages">Number of messages to send</string>
+        <string name="editMessage">Edit message</string>
+        <string name="enterMessage">Enter your message</string>
+        <string name="customMessgNote">NOTE: A google map link to your location will be appended to the above message</string>
+        <string name="cancelAlerts">Cancel sending alerts</string>
+        <string name="alertServiceIsRunning">Alert service is already running</string>
+        <string name="about">About Red alert</string>
+        <string name="updates"></string>
+        
+        <string name="aboutDetails">
+          Your one click emergency application.\n
+With a single click, it sends a SMS to your contact with a link to your current location.\n\n
+Features:-\n\n
+(1) Very fast and accurate in sending your location\n
+(2) Can send multiple SMSes to a contact, updating him of your changing location\n
+(3) Works even without internet connection or GPS, giving your best accurate location.\n
+(4) Sends a map link which can be opened by any browser supporting phone/system\n\n
+Your life is very precious. When it comes to danger or emergencies we leave no stones unturned.\n\n
+            </string>
+        
+        <string name="eula">
+            END-USER LICENSE AGREEMENT FOR RED ALERT IMPORTANT PLEASE READ THE TERMS AND CONDITIONS OF THIS LICENSE AGREEMENT CAREFULLY BEFORE CONTINUING WITH THIS PROGRAM INSTALL: Troofy\'s  End-User License Agreement ("EULA") is a legal agreement between you (either an individual or a single entity) and Troofy. for the Troofy software product(s) identified above which may include associated software components, media, printed materials, and "online" or electronic documentation ("SOFTWARE PRODUCT"). By installing, copying, or otherwise using the SOFTWARE PRODUCT, you agree to be bound by the terms of this EULA. This license agreement represents the entire agreement concerning the program between you and Troofy, (referred to as "licenser"), and it supersedes any prior proposal, representation, or understanding between the parties. If you do not agree to the terms of this EULA, do not install or use the SOFTWARE PRODUCT.
+
+The SOFTWARE PRODUCT is protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties. The SOFTWARE PRODUCT is licensed, not sold.
+\n\n
+1. GRANT OF LICENSE.
+The SOFTWARE PRODUCT is licensed as follows: 
+(a) Installation and Use.\n
+Troofy grants you the right to install and use copies of the SOFTWARE PRODUCT on your mobile running a validly licensed copy of the operating system for which the SOFTWARE PRODUCT was designed.
+\n\n
+2. DESCRIPTION OF OTHER RIGHTS AND LIMITATIONS.
+(a) Maintenance of Copyright Notices.\n
+You must not remove or alter any copyright notices on any and all copies of the SOFTWARE PRODUCT.\n
+(b) Distribution.\n
+You may distribute freely copies of the SOFTWARE PRODUCT to family, friends or third parties. Evaluation versions available for download from Troofy\'s websites may be freely distributed.\n
+(c) Prohibition on Reverse Engineering, Decompilation, and Disassembly.\n
+You may not reverse engineer, decompile, or disassemble the SOFTWARE PRODUCT, except and only to the extent that such activity is expressly permitted by applicable law notwithstanding this limitation. \n
+(d) Rental.\n
+You may not rent, lease, or lend the SOFTWARE PRODUCT.\n
+(e) Support Services.\n
+Troofy may provide you with support services related to the SOFTWARE PRODUCT ("Support Services"). Any supplemental software code provided to you as part of the Support Services shall be considered part of the SOFTWARE PRODUCT and subject to the terms and conditions of this EULA. \n
+(f) Compliance with Applicable Laws.\n
+You must comply with all applicable laws regarding use of the SOFTWARE PRODUCT.\n
+\n\n
+3. TERMINATION \n
+Without prejudice to any other rights, Troofy may terminate this EULA if you fail to comply with the terms and conditions of this EULA. In such event, you must destroy all copies of the SOFTWARE PRODUCT in your possession.
+\n\n
+4. COPYRIGHT
+All title, including but not limited to copyrights, in and to the SOFTWARE PRODUCT and any copies thereof are owned by Troofy or its suppliers. All title and intellectual property rights in and to the content which may be accessed through use of the SOFTWARE PRODUCT is the property of the respective content owner and may be protected by applicable copyright or other intellectual property laws and treaties. This EULA grants you no rights to use such content. All rights not expressly granted are reserved by Troofy.
+\n\n
+5. NO WARRANTIES
+Troofy expressly disclaims any warranty for the SOFTWARE PRODUCT. The SOFTWARE PRODUCT is provided \'As Is\' without any express or implied warranty of any kind, including but not limited to any warranties of merchantability, noninfringement, or fitness of a particular purpose. Troofy does not warrant or assume responsibility for the accuracy or completeness of any information, text, graphics, links or other items contained within the SOFTWARE PRODUCT. Troofy makes no warranties respecting any harm that may be caused by the transmission of a computer virus, worm, time bomb, logic bomb, or other such computer program. Troofy further expressly disclaims any warranty or representation to Authorized Users or to any third party.
+\n\n
+6. LIMITATION OF LIABILITY
+In no event shall Troofy be liable for any damages (including, without limitation, lost profits, business interruption, or lost information) rising out of \'Authorized Users\' use of or inability to use the SOFTWARE PRODUCT, even if Troofy has been advised of the possibility of such damages. In no event will Troofy be liable for loss of data or for indirect, special, incidental, consequential (including lost profit), or other damages based in contract, tort or otherwise. Troofy shall have no liability with respect to the content of the SOFTWARE PRODUCT or any part thereof, including but not limited to errors or omissions contained therein, libel, infringements of rights of publicity, privacy, trademark rights, business interruption, personal injury, loss of privacy, moral rights or the disclosure of confidential information.
+\n\n</string>
+        
+        <string name="poweredby">Powered by</string>
+        
+        <string name="addContactTwo">Add contact 2</string>
+        
+        <string name="addContactOne">Add contact 1</string>
+        
+        <string name="contact2">Contact number 2</string>
+        
+        <string name="contact1">Contact number 1</string>
+        
+        
+    
+</resources>
